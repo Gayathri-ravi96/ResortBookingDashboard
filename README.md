@@ -38,8 +38,8 @@ The dashboard is built with **Streamlit** and integrates machine learning pipeli
 ## 📁 Project Files
 
 - `ResortBooking.ipynb` — EDA, feature engineering, model building, and pipeline creation  
-- `deployresort.py` — Streamlit app to interact with the dashboard  
-- `country_freq_map.pkl` — Country frequency mapping used in visualizations *(optional)*  
+- `deployresort.py` — Streamlit app to interact with the dashboard
+-  
 - `rf_pipeline.pkl`, `xgb_pipeline.pkl`, `model_prophet.pkl` — Trained ML models *(not included)*  
 
 ---
