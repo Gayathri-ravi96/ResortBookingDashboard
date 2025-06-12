@@ -11,6 +11,10 @@ The dashboard is built with **Streamlit** and integrates machine learning pipeli
 
 ---
 
+### Dashboard Preview
+
+![Home Dashboard](screenshots/Frontpage.png)
+
 ## Features
 
 🔹 Predict whether a given period is a **peak season**  
