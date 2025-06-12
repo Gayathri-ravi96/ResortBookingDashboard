@@ -55,6 +55,7 @@ Please run the notebook (`ResortBooking.ipynb`) to retrain the models before usi
 
 Install dependencies using:
 
-pip install streamlit pandas scikit-learn xgboost matplotlib prophet joblib
+pip install -r requirements.txt
+
 
 
